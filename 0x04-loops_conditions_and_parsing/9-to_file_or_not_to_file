@@ -7,7 +7,7 @@ then
 	then
 		echo "holbertonschool file is not empty"
 	else
-		holbertonschool file is empty
+		echo "holbertonschool file is empty"
 	fi
 	if [ -f "holbertonschool" ]
 	then
