@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Kill excercise 7
+PID=$(pgrep -f 7-highlander)
+sudo kill -9 "$PID"
