@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Display indefinitely
+i=0
+while [ "$i" -lt 10 ]
+do
+	echo "To infinity and beyond"
+done
