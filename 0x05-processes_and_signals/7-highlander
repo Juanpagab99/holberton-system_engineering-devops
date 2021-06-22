@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Signal and loop
 for (( ; ; ))
 do
 	echo "To infinity and beyond"
